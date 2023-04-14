@@ -1,0 +1,25 @@
+body{
+    background-color: #1a1c2c;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.input{
+    background-image: url(../img/wizard_hand.png);
+    position:  absolute;
+  
+    width: 600px;
+    height:300px;
+    border:1px solid yellow;
+}
+
+input[type="text"] {
+    position: relative;
+    display: block;
+    margin : 0 auto;
+}
+
